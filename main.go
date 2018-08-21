@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/int128/kubelogin/kubeconfig"
+	"github.com/FundingCircle/kubelogin/kubeconfig"
 )
 
 func main() {
